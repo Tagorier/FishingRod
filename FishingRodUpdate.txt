@@ -1,8 +1,0 @@
-{
-
-"Name" : "FishingRod",
-"Description" : "We've made changes to the game",
-"Version" : "2.0.1",
-"Url" : "https://tagorier.itch.io/fishingrod"
-
-}
